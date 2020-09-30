@@ -1,0 +1,210 @@
+/*html,body{
+	width:411px;
+	height:731px;
+	top: -2 400px
+	left:2 095px;
+}*/
+
+.rectangle1
+{
+	position: absolute;
+	width: 411px;
+	height: 71px;
+	left: 0px;
+	top: 0px;
+	background: #FFCC00;
+	 }
+h3{
+	position: absolute;
+	width: 261px;
+	height: 1px;
+	left: 74px;
+	top: 0px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 36px;
+	line-height: 0px;
+	text-align: center;
+	color: #2B404D;
+
+}
+
+.rectangle2
+{
+	position: absolute;
+width: 411px;
+height: 360px;
+left: 0px;
+top: 71px;
+
+background: #2B404D;
+}
+ 
+ 
+.id{
+		
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 36px;
+	line-height: 20px;
+	text-align: left;
+	color: #FFCC00;
+	}
+
+	.element1
+ {
+ 	position: absolute;
+	width: 206px;
+	height: 35px;
+	left: 163px;
+	top: 30px;
+	background: #FFCC00;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 36px;
+	line-height: 30px;
+	text-align: center;
+	color: #2B404D;
+}	
+
+	.element2
+ {
+ 	position: absolute;
+	width: 206px;
+	height: 35px;
+	left: 163px;
+	top: 90px;
+	background: #FFCC00;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 36px;
+	line-height: 30px;
+	text-align: center;
+	color: #2B404D;
+}	
+
+	.element3
+ {
+ 	position: absolute;
+	width: 206px;
+	height: 35px;
+	left: 163px;
+	top: 150px;
+	background: #FFCC00;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 36px;
+	line-height: 30px;
+	text-align: center;
+	color: #2B404D;
+}	
+
+	.element4
+ {
+ 	position: absolute;
+	width: 206px;
+	height: 35px;
+	left: 163px;
+	top: 210px;
+	background: #FFCC00;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 36px;
+	line-height: 30px;
+	text-align: center;
+	color: #2B404D;
+}
+
+	.element5
+ {
+ 	position: absolute;
+	width: 206px;
+	height: 35px;
+	left: 163px;
+	top: 270px;
+	background: #FFCC00;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 36px;
+	line-height: 30px;
+	text-align: center;
+	color: #2B404D;
+}
+.rectangle3
+{
+	position: absolute;
+width: 411px;
+height: 75px;
+left: 0px;
+top: 400px;
+
+background: #FFCC00;
+	}
+ img
+{
+
+ position : absolute;
+ bottom : 15px;
+ left :0px;
+ width: 50px;
+ height: 50px; 
+ line-height: 80px;
+ 
+ 	}
+
+	a
+	{
+	float:right;
+	/*text-align: right;*/
+	width: 238px;
+	height: 44px;
+	/*left: 197px;
+	top: 682px;*/
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 18px;
+	line-height: 100px;
+	text-align: center;
+	text-decoration-line: underline;
+
+	color: #2B404D;
+	}
+
+
+
+
+/*</style>
+</head>
+
+<body>
+<div>
+Cette phrase est présentée en fonction du style défini dans l'en-tête 
+</div>
+<div>
+Cette phrase aussi, et pourtant le style n'a été défini qu'une fois !
+</div>
+</body>
+
+body {
+	position: relative;
+width: 768px;
+height: 1024px;
+
+background: #FFFFFF;
+
+X: 3190px
+Y: -1493px
+W: 768px
+H: 1024px
+Fill: Solid
+#FFFFFF
+}*/
